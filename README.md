@@ -4,4 +4,4 @@ An iOS Notes Clone app made with UIKit. This project is currently under developm
 ### Screenshots
 Test image
 <br>
-![](NotesClone-Home.png)
+![](Images/NotesClone-Home.png)
