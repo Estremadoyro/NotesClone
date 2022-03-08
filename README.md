@@ -2,9 +2,9 @@
 An iOS Notes Clone app made with UIKit. This project is currently under development.
 
 ### Gifs
-| Create new Note | Edit Note |
-| --- | --- |
-| <img src="Images/gifs/Gif-Notes-CreateNote.gif" width=200> | <img src="Images/gifs/Gif-Notes-EditNote.gif" width=200> |
+| Create new Note | Edit Note | Delete Note |
+| --- | --- | --- |
+| <img src="Images/gifs/Gif-Notes-CreateNote.gif" width=200> | <img src="Images/gifs/Gif-Notes-EditNote.gif" width=200> | <img src="Images/gifs/Gif-Notes-DeleteNote.gif" width=200> |
 
 ### Screenshots
 | Home | New Note |
