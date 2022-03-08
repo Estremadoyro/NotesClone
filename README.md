@@ -1,5 +1,6 @@
 # NotesClone App
 An iOS Notes Clone app made with UIKit. This project is currently under development.
+![Commit history](https://img.shields.io/github/commit-activity/m/estremadoyro/notes-clone)
 
 ### Demos
 | Create new Note | Edit Note | Delete Note | Search Note |
