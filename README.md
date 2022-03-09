@@ -1,4 +1,4 @@
-# NotesClone App
+# NotesClone 📝
 An iOS Notes Clone app made with UIKit. This project is currently under development.
 
 <br />
