@@ -3,8 +3,6 @@ An iOS Notes Clone app made with UIKit. This project is currently under developm
 
 <br />
 
-![Commit history](https://img.shields.io/github/commit-activity/m/estremadoyro/notesclone)
-![Last commit](https://img.shields.io/github/last-commit/estremadoyro/notesclone)
 ![Languages](https://img.shields.io/github/languages/top/estremadoyro/notesclone)
 ![Views](https://api.visitorbadge.io/api/visitors?path=estremadoyro%2Fnotesclone&label=Views&labelColor=%235c5c5c&countColor=%23539bf5&style=flat)
 
